@@ -3407,26 +3407,55 @@ section.lazy-placeholder:after {
 .cid-rEFLEc00Yk .social-list a:focus {
   text-decoration: none;
 }
-.cid-rEFMFq3Mpy {
+.cid-rEUG9mNVhj {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rEFMFq3Mpy .mbr-slider .carousel-control {
+.cid-rEUG9mNVhj .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rEUG8r8w74 {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 60px;
+}
+.cid-rEUG8r8w74 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rEUG8r8w74 .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rEUCgycEBL {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rEUCgycEBL .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rEUCcig5iM {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rEUCcig5iM .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-rEFMFq3Mpy .mbr-slider .carousel-control-prev {
+.cid-rEUCcig5iM .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-rEFMFq3Mpy .mbr-slider .carousel-control-next {
+.cid-rEUCcig5iM .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-rEFMFq3Mpy .mbr-slider .modal-body .close {
+.cid-rEUCcig5iM .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-rEFMFq3Mpy .mbr-gallery-item > div::before {
+.cid-rEUCcig5iM .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -3439,13 +3468,13 @@ section.lazy-placeholder:after {
   transition: 0.2s opacity ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rEFMFq3Mpy .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-rEUCcig5iM .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-rEFMFq3Mpy .mbr-gallery-item > div:hover:before {
+.cid-rEUCcig5iM .mbr-gallery-item > div:hover:before {
   opacity: 0.7 !important;
 }
-.cid-rEFMFq3Mpy .mbr-gallery-title {
+.cid-rEUCcig5iM .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -3455,7 +3484,7 @@ section.lazy-placeholder:after {
   color: #fff;
   z-index: 2;
 }
-.cid-rEFMFq3Mpy .mbr-gallery-title:before {
+.cid-rEUCcig5iM .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
