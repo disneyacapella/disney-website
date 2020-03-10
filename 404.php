@@ -1,0 +1,4 @@
+<?php// basic 404 error pageheader('HTTP/1.1 404 Not Found');header('Status: 404 Not Found');?>
+wp_safe_redirect(site_url());
+exit();
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Page not found</title></head><body><h1>Page not found</h1><p>Sorry, we cannot find that page.</p><p><a href="/">Please return to the home page&hellip;</a></p></body></html>
