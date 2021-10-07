@@ -3040,25 +3040,82 @@ section.lazy-placeholder:after {
 .cid-sEx3TGpPL0 H1 {
   color: #232323;
 }
-.cid-sEx3UmIk1n {
+.cid-sLbA37ZY0C {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #006e99;
 }
+.cid-sLbA37ZY0C .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-sLbA37ZY0C h4 {
+  font-weight: 500;
+}
+.cid-sLbA37ZY0C p {
+  color: #232323;
+}
+.cid-sLbA37ZY0C .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-sLbA37ZY0C .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-sLbA37ZY0C .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-sLbA37ZY0C .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-sLbA37ZY0C .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-sLbA37ZY0C .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
 @media (min-width: 992px) {
-  .cid-sEx3UmIk1n .mbr-figure {
+  .cid-sLbA37ZY0C .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-sEx3UmIk1n .mbr-figure {
-    padding-bottom: 3rem;
+  .cid-sLbA37ZY0C .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
   }
 }
-@media (max-width: 767px) {
-  .cid-sEx3UmIk1n .mbr-text {
-    text-align: center;
+@media (max-width: 300px) {
+  .cid-sLbA37ZY0C .card-img span {
+    font-size: 40px !important;
   }
+}
+.cid-sLbA37ZY0C .cost {
+  text-decoration: line-through;
+  color: #767676;
+}
+.cid-sLbA37ZY0C H2 {
+  color: #ffffff;
+}
+.cid-sLbA37ZY0C .text1 {
+  color: #ffffff;
+}
+.cid-sLbA37ZY0C .text2,
+.cid-sLbA37ZY0C .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-sEx3VSi5WR {
   padding-top: 60px;
@@ -3113,6 +3170,105 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 767px) {
   .cid-sEx7DMOK0q .mbr-text {
+    text-align: center;
+  }
+}
+.cid-sLbAPo2Gti {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-sLbAPo2Gti .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-sLbAPo2Gti h4 {
+  font-weight: 500;
+}
+.cid-sLbAPo2Gti p {
+  color: #232323;
+}
+.cid-sLbAPo2Gti .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-sLbAPo2Gti .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-sLbAPo2Gti .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-sLbAPo2Gti .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-sLbAPo2Gti .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-sLbAPo2Gti .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-sLbAPo2Gti .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-sLbAPo2Gti .media-container-row {
+    -webkit-flex-direction: row-reverse;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sLbAPo2Gti .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-sLbAPo2Gti .media-container-row {
+    -webkit-flex-direction: column-reverse;
+  }
+}
+@media (max-width: 300px) {
+  .cid-sLbAPo2Gti .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-sLbAPo2Gti .cost {
+  text-decoration: line-through;
+  color: #767676;
+}
+.cid-sEx3UmIk1n {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #006e99;
+}
+@media (min-width: 992px) {
+  .cid-sEx3UmIk1n .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sEx3UmIk1n .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sEx3UmIk1n .mbr-text {
     text-align: center;
   }
 }
