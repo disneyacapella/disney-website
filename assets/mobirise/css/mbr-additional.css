@@ -1,3 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap);
+
+
+
+
 body {
   font-family: Rubik;
 }
@@ -567,6 +572,32 @@ blockquote {
 .mbr-form .input-group-btn button[type="submit"]:hover {
   box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
 }
+.form2 .form-control {
+  border-top-left-radius: 100px;
+  border-bottom-left-radius: 100px;
+}
+.form2 .input-group-btn a.btn {
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+.form2 .input-group-btn button[type="submit"] {
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+.form3 input[type="email"] {
+  border-radius: 100px !important;
+}
+@media (max-width: 349px) {
+  .form2 input[type="email"] {
+    border-radius: 100px !important;
+  }
+  .form2 .input-group-btn a.btn {
+    border-radius: 100px !important;
+  }
+  .form2 .input-group-btn button[type="submit"] {
+    border-radius: 100px !important;
+  }
+}
 @media (max-width: 767px) {
   .btn {
     font-size: .75rem !important;
@@ -656,8 +687,7 @@ blockquote {
 .lazy-bg {
   background-image: none !important;
 }
-.lazy-placeholder:not(section),
-.lazy-none {
+.lazy-placeholder:not(section) {
   display: block;
   position: relative;
   padding-bottom: 56.25%;
@@ -3252,23 +3282,23 @@ section.lazy-placeholder:after {
   text-decoration: line-through;
   color: #767676;
 }
-.cid-sEx3UmIk1n {
+.cid-sPvtrJ58SN {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #006e99;
 }
 @media (min-width: 992px) {
-  .cid-sEx3UmIk1n .mbr-figure {
+  .cid-sPvtrJ58SN .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-sEx3UmIk1n .mbr-figure {
+  .cid-sPvtrJ58SN .mbr-figure {
     padding-bottom: 3rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-sEx3UmIk1n .mbr-text {
+  .cid-sPvtrJ58SN .mbr-text {
     text-align: center;
   }
 }
@@ -3307,6 +3337,26 @@ section.lazy-placeholder:after {
 }
 .cid-sEx7EgB2R7 H1 {
   color: #232323;
+}
+.cid-sEx3UmIk1n {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #006e99;
+}
+@media (min-width: 992px) {
+  .cid-sEx3UmIk1n .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sEx3UmIk1n .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sEx3UmIk1n .mbr-text {
+    text-align: center;
+  }
 }
 .cid-rEfshsWLvU .navbar {
   background: #efefef;
