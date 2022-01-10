@@ -1098,6 +1098,37 @@ section.lazy-placeholder:after {
   padding-bottom: 105px;
   background-image: url("../../../assets/images/dsc2123-3-2000x1335.png");
 }
+.cid-sU5u9T6sHS {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sU5u9T6sHS .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-sU5uaENpz4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-sU5uaENpz4 .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sU5uaENpz4 .section-text {
+  padding: 2rem 0;
+}
+.cid-sU5uaENpz4 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sU5uaENpz4 .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rEfBsYbtNh {
   padding-top: 60px;
   padding-bottom: 0px;
