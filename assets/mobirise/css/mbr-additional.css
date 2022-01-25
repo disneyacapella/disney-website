@@ -1579,24 +1579,16 @@ section.lazy-placeholder:after {
 .cid-sPzmPfGHSh .mbr-section-subtitle {
   color: #767676;
 }
-.cid-sPzn1iqLPa {
+.cid-sVuRkPXq9l {
   background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
-.cid-sPzn1iqLPa .image-block {
+.cid-sVuRkPXq9l .video-block {
   margin: auto;
 }
-.cid-sPzn1iqLPa figcaption {
-  position: relative;
-}
-.cid-sPzn1iqLPa figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
 @media (max-width: 768px) {
-  .cid-sPzn1iqLPa .image-block {
+  .cid-sVuRkPXq9l .video-block {
     width: 100% !important;
   }
 }
@@ -3202,6 +3194,7 @@ section.lazy-placeholder:after {
 .cid-sVuN5a2TqZ .text2,
 .cid-sVuN5a2TqZ .mbr-section-btn {
   color: #ffffff;
+  text-align: left;
 }
 .cid-sVuNFBnrZ5 {
   padding-top: 60px;
